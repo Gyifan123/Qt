@@ -1,5 +1,5 @@
 # Qt
-This　project is about my thesis for university.
+This project is about my thesis for university graduation.
 
 # ソフトウィア紹介
 人の目の代わりに工場の製造ラインを助けようと思ったのが、組み込みシステムを用いた産業用画像検出システムを設計するきっかけでした。
